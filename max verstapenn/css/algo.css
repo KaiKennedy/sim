@@ -1,0 +1,158 @@
+
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+head {
+    text-align: center;
+
+}
+
+body {
+    font-family: sans-serif;
+    background-image:url('https://tm.ibxk.com.br/2024/02/09/09163932746372.jpg');
+    background-size:cover;
+    background-position:center ;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+form {
+    text-align: center;
+    border-collapse: collapse black;
+    background-color: maroon;
+}
+
+nav ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+section {
+    border:3px solid black;
+
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    text-align: center;
+}
+
+section {
+    padding: 20px;
+    text-align: center;
+    border-collapse: collapse black;
+    background-color: rgba(125, 176, 239, 0.364);
+    color:white
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.botao-discreto {
+    width: 10px; 
+    height: 10px; 
+    position: fixed;
+    bottom: 10px;
+    right: 10px; 
+    opacity: 0.2; 
+  }
+
+  .botao-discreto:hover {
+    opacity: 1;
+    cursor: pointer;
+  }
+
+  .list-item {
+    font-size: xx-large ;
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    border: 3px solid rgba(8, 0, 255, 0.47);
+    background-color: rgba(30, 143, 255, 0.534);
+  }
+  
+  .list-item2  img {
+    margin-right: 50px;
+    width: 250px; 
+    height: 250px; 
+    border: 5px solid rgba(8, 0, 255, 0.47);
+  }
+
+
+  .list-item2 {
+    font-size: xx-large ;
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    border: 3px solid rgba(141, 11, 11, 0.47);
+    background-color: rgba(255, 0, 0, 0.534);
+  }
+
+  .list-item img {
+    margin-right: 50px;
+    width: 250px; 
+    height: 250px; 
+    border: 5px solid rgba(8, 0, 255, 0.47);
+  }
+
+  .antigos {
+ border: 3px solid rgba(8, 0, 255, 0.47);
+
+
+  }
+
+  .list-item4  img {
+    margin-right: 50px;
+    width: 250px; 
+    height: 250px; 
+    border: 5px solid rgba(8, 0, 255, 0.47);
+  }
+
+
+  .list-item4 {
+    font-size: xx-large ;
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    border: 3px solid rgba(33, 89, 19, 0.47);
+    background-color: rgba(20, 255, 35, 0.534);
+  }
+
+  .list-item3 img {
+    margin-right: 50px;
+    width: 250px; 
+    height: 250px; 
+    border: 5px solid rgba(8, 0, 255, 0.47);
+  }
+
+
+  .list-item3 {
+    font-size: xx-large ;
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    border: 3px solid rgba(130, 52, 3, 0.47);
+    background-color: rgba(255, 119, 0, 0.534);
+  }

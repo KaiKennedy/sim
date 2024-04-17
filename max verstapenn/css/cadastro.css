@@ -1,0 +1,66 @@
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+head {
+    text-align: center;
+
+}
+
+body {
+    font-family: sans-serif;
+    background-image:url('https://i.pinimg.com/originals/71/77/82/717782d78ee313d43a22fdc314c78da9.jpg');
+    background-size:cover;
+    background-position:center ;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+
+nav ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+section {
+    border:3px solid black;
+
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+    text-align: justify;
+    text-align: center;
+    border: 10px solid black;
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
